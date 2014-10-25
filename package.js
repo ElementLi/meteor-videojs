@@ -1,7 +1,7 @@
 Package.describe({
   name:"yong:meteor-videojs",
-  summary: "Video.js 4.8.5",
-  version: "1.0.0",
+  summary: "Video.js 4.9.1",
+  version: "1.0.1",
   git: " https://github.com/feelsys/meteor-videojs.git "
 });
 
