@@ -1,7 +1,7 @@
 meteor-videojs
 ==============
 
-***Videojs 4.10.2 for Meteor
+***Videojs 4.12.5 for Meteor
 
 A package for Meteor users to use videojs easily.
 
